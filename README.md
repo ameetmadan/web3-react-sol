@@ -1,6 +1,6 @@
 # Solidity and React project
 
-[https://naughty-engelbart-6c2434.netlify.app/](https://naughty-engelbart-6c2434.netlify.app/)
+[https://web3-react-sol.netlify.app/](https://web3-react-sol.netlify.app/)
 
 ![warning.png](warning.png)
 
